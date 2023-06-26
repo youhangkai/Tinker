@@ -1,0 +1,4 @@
+When facing problem of internet connetion of DNS,
+you may refresh your DNS by opening CMD and put following command:
+ipconfig/flushdns
+Then your DNS will be refreshed and you can use connect to the internet again.
